@@ -1,4 +1,4 @@
-[gd_scene format=3 uid="uid://c2pb34yjo2cye"]
+[gd_scene format=3 uid="uid://bj0hqp6jtknhf"]
 
 [node name="Lanes" type="Node2D"]
 position = Vector2(1, 2)
@@ -6,3 +6,5 @@ position = Vector2(1, 2)
 [node name="StaticBody2D" type="StaticBody2D" parent="."]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
