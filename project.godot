@@ -11,11 +11,7 @@ config_version=5
 [application]
 
 config/name="Spell Cycle"
-<<<<<<< HEAD
 config/features=PackedStringArray("4.4", "Forward Plus")
-=======
-config/features=PackedStringArray("4.2", "Forward Plus")
->>>>>>> 04b14c7f943ef7dbcc79602bc8b3a9308edfce73
 config/icon="res://icon.svg"
 
 [dotnet]
